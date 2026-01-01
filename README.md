@@ -4,10 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=900&color=00FFCC&center=true&vCenter=true&width=700&font=Fira+Code&lines=Network+%26+Database+Engineer;Full-Stack+Developer;Creative+UI%2FUX+Designer;Building+Innovative+Projects;Forever+Learning+%26+Growing)
 
-<!-- Animated gradient background -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtrcGZnNGYwZzhkZGVtam1pdDF6aXhkZGdjOWs1bDkwYXhldmYwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif" width="650"/>
-</p>
+
 
 </div>
 
