@@ -6,7 +6,7 @@
 
 <!-- Animated gradient background -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/6c6c6d5e8f8b0b4a4c26e2e79ee58c04d6b3e4dbf6b0c2de7d02b7b8e2e5d0f8/68747470733a2f2f63646e2e67697068792e636f6d2f6d6178696d756d2f676966732f6769726c2d616e696d6174696f6e2e676966" width="650"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="650"/>
 </p>
 
 </div>
