@@ -6,7 +6,7 @@
 
 <!-- Animated gradient background -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="650"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtrcGZnNGYwZzhkZGVtam1pdDF6aXhkZGdjOWs1bDkwYXhldmYwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiMBUPZUhUg4HRV6PW/giphy.gif" width="650"/>
 </p>
 
 </div>
