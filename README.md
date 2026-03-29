@@ -37,6 +37,6 @@
 
 <div align="center">
 
-✨ *“Coding is my superpower. Learning is my fuel.”* ✨
+✨ *“Ideas over ego.”* ✨
 
 </div>
